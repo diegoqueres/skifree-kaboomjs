@@ -1,6 +1,6 @@
 # skifree-kaboomjs
 
-This is a Skifree game develop in a tutorial by [Ania Kubów](https://www.youtube.com/c/AniaKub%C3%B3w). 
+This is a Skifree game developed in a tutorial by [Ania Kubów](https://www.youtube.com/c/AniaKub%C3%B3w). 
 It was develop using Kaboom js library.
 
 Video tutorial: [Let's code Skifree in JavaScript and Kaboom.js!](https://youtu.be/u5aD3lHrAaQ).
